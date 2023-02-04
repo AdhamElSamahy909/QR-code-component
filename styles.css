@@ -18,6 +18,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     background: var(--light-gray);
     font-size: 15px;
     min-height: 100vh;
@@ -66,4 +67,10 @@ p {
     font-size: 0.95rem;
     padding: 0 7.5% 35px 7.5%;
     color: var(--grayish-blue);
+}
+
+.attribution {
+    flex-basis: 0%;
+    position: relative;
+    top: 50px;
 }
