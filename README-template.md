@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Qr code component](https://github.com/AdhamElSamahy909/QR-code-component.git)
-- Live Site URL: [https://adhamelsamahy909.github.io/QR-code-component/]
+- Live Site URL: https://adhamelsamahy909.github.io/QR-code-component/
 
 ## My process
 
@@ -33,7 +33,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 
 ## Author
-
-- Website - [Adham El Samahy]
 - Frontend Mentor - [@Adham El Samahy](https://www.frontendmentor.io/profile/AdhamElSamahy909)
 
